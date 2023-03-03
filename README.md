@@ -1,7 +1,7 @@
 These are the contents of my `~/.config` directory for sway and waybar.
-The wallpaper I use is MilkyWay (`5120x2880.png`).
-I've also included a screenshot of my sway desktop (`AsahiSwayM1Ultra.png`).
-I've also installed the following packages (from the AUR unless otherwise specified):
+The wallpaper I use is MilkyWay (`5120x2880.png`), and I've also included a screenshot of my sway desktop (`AsahiSwayM1Ultra.png`).
+
+Following are the packages I've installed (from the AUR unless otherwise specified):
 
 - Sway-related:
 ```
