@@ -187,7 +187,10 @@ output * bg /usr/share/wallpapers/MilkyWay/contents/images/5120x2880.png fill
     bindsym $mod+n exec nautilus
     
     # Start Visual Studio Code
-    bindsym $mod+m exec flatpak run com.visualstudio.code
+    bindsym $mod+c exec flatpak run com.visualstudio.code
+    
+    # Play random song from library
+    bindsym $mod+m exec cvlc --no-video --random /home/jasoneckert/Music
     
     # Take screenshot
     bindsym $mod+p exec grim ~/Pictures/screenshot.png
